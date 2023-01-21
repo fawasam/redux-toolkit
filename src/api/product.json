@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2020/05/S22_Ultra_Banner_3000x2000-scaled.jpg?fit=2560%2C1707&ssl=1",
+    "title": "samsung"
+  },
+  {
+    "id": 1,
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.large.jpg",
+    "title": "iphone"
+  },
+  {
+    "id": 2,
+    "image": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MjczNzUyfGltYWdlL3BuZ3xoMGQvaDYxLzE0MTkwNTI5Njc1Mjk0LnBuZ3xmYTMyYzBlZmE5NTcyNzAyMTZhZmJlMmFmOTVjMmZmYTM4ZTdjNWFiZWM0YzE5YWQ2YzcxNmM3OTE2MThjZmE4",
+    "title": "lenovo"
+  }
+]
